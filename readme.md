@@ -6,6 +6,8 @@ In this project, I made Snake game which can be controlled by WASD keys. And ano
 
 For more information can be seen in my [video](https://youtu.be/G_hdG2dWx6E) on YouTube.
 
+[![new_thumb](https://github.com/TitorPs360/snake-game-ai-python/blob/main/cover.png)](https://youtu.be/G_hdG2dWx6E)
+
 ## Description/Usage
 
 - Install required library
