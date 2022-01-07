@@ -10,7 +10,8 @@ For more information can be seen in my [video](https://youtu.be/G_hdG2dWx6E) on 
 
 ## Description/Usage
 
-- Install required library
+- Install required library by `conda create --name <env> --file requirements.txt`
+- Activate env by `conda activate <env>`
 - You can play snake game by yourself by running `python snake_human.py` and play with WASD key.
 - YOu can train SnakeAI by running `python agent.py` and watch the snake learn.
 - Enjoy your Snake
