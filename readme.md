@@ -1,8 +1,6 @@
 ## About Snake Game AI
 
-_SnakeGameAI_ - a project for training an AI to play Snake Game using reinforcement learning.
-
-In this project, I made Snake game which can be controlled by WASD keys. And another important part is the use of reinforcement learning to create AI to play this game.
+_SnakeGameAI_ - a project to make Snake Game which can be controlled by WASD keys. Also this game is for training an AI to play it using reinforcement learning.
 
 ## Youtube
 
