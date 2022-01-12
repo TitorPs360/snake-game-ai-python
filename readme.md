@@ -25,7 +25,7 @@ conda create --name <env> --file requirements.txt
 
 ## Usage
 
-1. Open CMD as administrator
+1. Open CMD or Terminal
 
    ![alt text](https://github.com/TitorPs360/snake-game-ai-python/blob/main/fig/step1.png?raw=true)
 
